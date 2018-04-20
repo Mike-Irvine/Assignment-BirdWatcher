@@ -15,6 +15,4 @@ Possible improvements:
 
 - Handle attempted addition of duplicate entries
 
-- Allow partial searches in show method, returning all matching Bird objects.
-
-- E.G. user input of "gull" could print Common gull and Black-tailed gull
+- Allow partial searches in show method, returning all matching Bird objects. (E.G. user input of "gull" could print Common gull and Black-tailed gull)
