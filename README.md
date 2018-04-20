@@ -9,12 +9,12 @@ The test protocol and other files and folders were provided as part of the exerc
 
 Possible improvements:
 
-  Help command to list allowed commands
+- Help command to list allowed commands
 
-  Add class with method to handle string matching, case insensitive, trim white space
+- Add class with method to handle string matching, case insensitive, trim white space
 
-  Handle attempted addition of duplicate entries
+- Handle attempted addition of duplicate entries
 
-  Allow partial searches in show method, returning all matching Bird objects.
+- Allow partial searches in show method, returning all matching Bird objects.
 
-  - E.G. user input of "gull" could print Common gull and Black-tailed gull
+- E.G. user input of "gull" could print Common gull and Black-tailed gull
